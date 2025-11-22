@@ -85,7 +85,7 @@ AI와 지도 기반 미션으로 동대문을 걸으며 나만의 식물 도감�
 
 ## 아키텍처
 
-<img width="538" height="352" alt="Image" src="https://github.com/user-attachments/assets/8ae97d4b-4e69-43e6-b9cf-6af008ef4a78" />
+<img width="503" height="248" alt="Image" src="https://github.com/user-attachments/assets/8746b4e9-5292-42bd-9eb8-24f50e86a0b3" />
 
 <br>
 
